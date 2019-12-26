@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "38409ade-d45d-4d45-98f8-7d932808379e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "再次挑战按钮光": {
+      "ver": "1.0.3",
+      "uuid": "584e0132-7acd-4b87-97ba-9e45cc5177a6",
+      "rawTextureUuid": "38409ade-d45d-4d45-98f8-7d932808379e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 101,
+      "height": 33,
+      "rawWidth": 102,
+      "rawHeight": 33,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
